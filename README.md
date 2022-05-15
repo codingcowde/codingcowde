@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingcowde
-- 👀 I’m interested in Automation, Arduino, Coding, Pentetrationtesting, Raspberry Pi 
-- 🌱 I’m currently learning Pyhton 3, Powershell, Network Administration and Management
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👀 I’m interested in Automation, Security and Coding
+- 🌱 I’m currently learning Go, Pyhton, Powershell, Network Administration and Management
+<!--- - 💞️ I’m looking to collaborate on ... ---
 - 📫 git@codingcow.de
 
 <!---
