@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingcowde a Network Manager and rebooted Web Developer with affinty for cyber security
 - 👀 I’m interested in Automation, Security and Coding
-- 🌱 I’m currently learning Pyhton, Django, Sass and the modern JavaScript 
+- 🌱 I’m currently learning Pyhton, Django and Sass 
 - TryHackMe profile https://tryhackme.com/p/codingcowde
 <!--- - 💞️ I’m looking to collaborate on ... ---
 - 📫 git@codingcow.de
