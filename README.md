@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingcowde a Network Manager and rebooted Web Developer with affinty for cyber security
+- 👋 Hi, I’m @codingcowde a Network Manager, Web Developer and Cyber Security Enthusiast
 - 👀 I’m interested in Automation, Security and IOT
 - TryHackMe profile https://tryhackme.com/p/codingcowde
 <!--- - 💞️ I’m looking to collaborate on ... ---
